@@ -1,0 +1,1097 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tabs",
+				"tabs-tree-renderer"
+			],
+			[
+				"ng-re",
+				"ng-repeat	angular repeat"
+			],
+			[
+				"tree",
+				"treeModel"
+			],
+			[
+				"links",
+				"linksService"
+			],
+			[
+				"di",
+				"digest	\\$digest"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"selected",
+				"selectedPayment"
+			],
+			[
+				"num",
+				"numOfPays"
+			],
+			[
+				"tbf",
+				"tbform:h	Bootstrap horizontal form"
+			],
+			[
+				"root",
+				"rootScope	\\$rootScope"
+			],
+			[
+				"ticket",
+				"ticketTypes"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"mod",
+				"modal-window"
+			],
+			[
+				"th",
+				"thumbnail"
+			],
+			[
+				"usermo",
+				"userMock"
+			],
+			[
+				"login",
+				"loginService"
+			],
+			[
+				"tbb",
+				"tbbutton	Bootstrap default link button"
+			],
+			[
+				"route",
+				"routeParams	\\$routeParams"
+			],
+			[
+				"ng-",
+				"ng-model"
+			],
+			[
+				"h",
+				"h	height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"htt",
+				"http	$http"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"read",
+				"ready	document-ready"
+			],
+			[
+				"http",
+				"httpBackend	\\$httpBackend"
+			],
+			[
+				"tbs",
+				"tbscripts	Bootstrap scripts reference"
+			],
+			[
+				"tb",
+				"tbbadge	Bootstrap default badge"
+			],
+			[
+				"Form",
+				"FORM	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/CoffeeScript/CoffeeScript.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sync",
+				"Side Bar: Disable Syncing"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remopacka",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"sidebar",
+				"Side Bar: Reveal File"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"set jas",
+				"Set Syntax: Jasmine"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"http",
+				"HTTP Requester"
+			],
+			[
+				"pro",
+				"Project: Edit"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"snippet",
+				"Snippet: extend"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"orig",
+				"Origami: Create Pane Below"
+			],
+			[
+				"origam ",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"des pane",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"pane",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"create new",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"module",
+				"Snippet: module"
+			],
+			[
+				"bootsta top",
+				"Snippet: Bootstrap tabs with dropdowns"
+			],
+			[
+				"boots",
+				"Snippet: Bootstrap toolbar"
+			],
+			[
+				"bootst",
+				"Snippet: Bootstrap toolbar"
+			],
+			[
+				"direc",
+				"Snippet: directive"
+			],
+			[
+				"pacak",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Bracket Highlighter: Swap Quotes"
+			],
+			[
+				"snip list",
+				"Snippet: HTML - Unordered list"
+			],
+			[
+				"before",
+				"Snippet: before"
+			],
+			[
+				"bdd",
+				"Jasmine: Switch between code and spec"
+			],
+			[
+				"snip desc",
+				"Snippet: BDD Describe"
+			],
+			[
+				"snipp consol",
+				"Snippet: console.log"
+			],
+			[
+				"side bar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"snipe bootsrap ",
+				"Snippet: Bootstrap small link button"
+			],
+			[
+				"snip angul ",
+				"Snippet: Angular orderBy filter"
+			],
+			[
+				"disab",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"lowe",
+				"Snippet: lowercase"
+			],
+			[
+				"snippet ",
+				"Snippet: lowercase"
+			],
+			[
+				"set jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"consol",
+				"Set Syntax: R Console"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"keybin",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"key bin",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"key bi",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"aligne",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bootstra form",
+				"Snippet: Bootstrap horizontal form"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"javs",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/dev/workspace/workspace.sublime-project",
+		"/D/dev/workspace/research-tab/karma.conf.js",
+		"/D/dev/workspace/research-tab/src/vendor/jquery-ui/ui/jquery-ui.js",
+		"/D/dev/workspace/research-tab/src/scripts/core/main.tpl.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tree-node-drag-drop.drv.js",
+		"/D/dev/workspace/stuff/mindmap/jquery-ui.js",
+		"/D/dev/workspace/alisconfig/src/vendor/angular-ui/build/angular-ui.js",
+		"/D/dev/workspace/alisconfig/src/index.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tabs-tree-renderer.drv.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/modules/context-generator/context-generator.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tabs-tree.tpl.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/child-node.tpl.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tabs-tree-renderer.tpl.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/child-node.drv.js",
+		"/C/Users/shai/AppData/Roaming/Sublime Text 2/Packages/Grunt/SublimeGrunt.sublime-settings",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.drtv.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.test.js",
+		"/D/dev/workspace/research-tab/src/vendor/angular-dragdrop/src/angular-dragdrop.js",
+		"/D/dev/workspace/research-tab/src/vendor/angular-dragdrop/demo/dnd-frameworks.html",
+		"/D/dev/workspace/research-tab/src/scripts/app.mdl.js",
+		"/D/dev/workspace/research-tab/component.json",
+		"/D/dev/workspace/alisconfig/component.json",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/paste-box.tpl.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/paste-box.drv.js",
+		"/D/dev/workspace/repos/angular.js/test/ng/rootScopeSpec.js",
+		"/D/dev/workspace/research-tab/src/scripts/core/main.ctrl.js",
+		"/D/dev/workspace/research-tab/src/index.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tab-box.tpl.html",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/child-node.test.js",
+		"/D/dev/workspace/research-tab/src/scripts/services/links.srv.test.js",
+		"/D/dev/workspace/research-tab/src/scripts/services/links.srv.mock.js",
+		"/D/dev/workspace/alisconfig/test/spec/modules/directory.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tabs-tree.test.js",
+		"/D/dev/workspace/research-tab/src/scripts/core/main.ctrl.test.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/child-node.tpl.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/chile-node.drv.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives/tabs-tree.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/tabs-tree.js",
+		"/D/dev/workspace/research-tab/src/scripts/common/directives",
+		"/D/dev/workspace/research-tab/Gruntfile.js",
+		"/D/dev/workspace/research-tab/src/styles/main.scss",
+		"/D/dev/workspace/research-tab/.tmp/scripts/scripts.js",
+		"/D/dev/workspace/research-tab/src/scripts/controllers/main.ctrl.js",
+		"/D/dev/workspace/research-tab/src/scripts/app.js",
+		"/C/Users/shai/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/shai/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/D/dev/workspace/research-tab/src/scripts/controllers/main.js",
+		"/D/dev/workspace/alisconfig/Gruntfile.js",
+		"/D/dev/workspace/research-tab/.bowerrc",
+		"/D/dev/workspace/research-tab/karma-e2e.conf.js",
+		"/D/dev/workspace/research-tab/.gitignore",
+		"/D/dev/workspace/alisconfig/src/scripts/app.mdl.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/ng-advanced-tree/ng-advanced-tree.js",
+		"/D/dev/workspace/alisconfig/src/styles/main.scss",
+		"/D/dev/workspace/alisconfig/src/vendor/jstree/dist/jstree.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/ng-advanced-tree/ng-advanced-tree.test.js",
+		"/D/dev/workspace/alisconfig/src/scripts/core/tree/tree.mdl.js",
+		"/D/dev/workspace/alisconfig/src/scripts/core/directory/directory.mdl.js",
+		"/D/dev/workspace/alisconfig/.tmp/scripts/scripts.js",
+		"/D/dev/workspace/alisconfig/src/vendor/jstree/dist/themes/default/d.png",
+		"/D/dev/workspace/alisconfig/src/vendor/jquery/jquery.js",
+		"/D/dev/workspace/alisconfig/src/vendor/jstree/dist/themes/d.png",
+		"/D/dev/workspace/alisconfig/backup/Gruntfile.js",
+		"/D/dev/workspace/alisconfig/src/vendor/angular-ui-router/Gruntfile.js",
+		"/C/Users/shai/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/dev/workspace/alisconfig/src/scripts/core/directory/current-projects/current-projects.js",
+		"/D/dev/workspace/alisconfig/src/scripts/core/directory/current-projects/current-projects.tpl.html",
+		"/D/dev/workspace/alisconfig/karma.conf.js",
+		"/D/dev/workspace/repos/angular.js/src/Angular.js",
+		"/D/dev/workspace/alisconfig/backup/testacular.conf.js",
+		"/D/dev/workspace/alisconfig/src/scripts/core/directory/directory.ctrl.js",
+		"/D/dev/workspace/alisconfig/src/vendor/angular-ui-router/component.json",
+		"/D/dev/workspace/alisconfig/src/vendor/angular-ui-router/package.json",
+		"/D/dev/workspace/alisconfig/src/vendor/angular-ui-states/README.md",
+		"/D/dev/workspace/alisconfig/backup/component.json",
+		"/D/dev/workspace/alisconfig/.bowerrc",
+		"/D/dev/workspace/alisconfig/src/scripts/common/services/proxies/products-proxy.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/services/proxies/ProductsProxy.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/user-form/user-form.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/top-bar/top-bar.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/tb-form/tb-form.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/plan-form/plan-form.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/tb-form-field/tb-form-field.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/planForm/plan-form.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/planForm/planFormplan-form",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/planForm/planForm.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/tbForm/tb-form.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/tbForm/tbForm.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/modules/context-generator/contextGenerator.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/modules/contextGenerator/contextGenerator.js",
+		"/D/dev/workspace/alisconfig/backup/.gitignore",
+		"/D/dev/workspace/alisconfig/.gitignore",
+		"/D/dev/workspace/alisconfig/.editorconfig",
+		"/D/dev/workspace/fun/grunt/Gruntfile.js",
+		"/D/dev/workspace/fun/yeotest/karma.conf.js",
+		"/D/dev/workspace/fun/yeotest/test/spec/controllers/main.js",
+		"/D/dev/workspace/fun/yeotest/src/scripts/modules/testModule.js",
+		"/D/dev/workspace/alisconfig/src/scripts/app.js",
+		"/D/dev/workspace/fun/yeotest/Gruntfile.js",
+		"/D/dev/workspace/fun/yeotest/src/index.html",
+		"/D/dev/workspace/alisconfig/components/angular/angular.js",
+		"/D/dev/workspace/fun/angularjs-structure/src/index.html",
+		"/D/dev/workspace/fun/grunt/dist/app.js",
+		"/D/dev/workspace/fun/grunt/src/modules/module1/test1.mdl.js",
+		"/D/dev/workspace/fun/grunt/src/modules/module1/subModule1/subtest.js",
+		"/D/dev/workspace/fun/grunt/grunt.js",
+		"/C/Users/shai/AppData/Roaming/Sublime Text 2/Settings/SideBarEnhancements.json",
+		"/D/dev/workspace/fun/yeotest/src/scripts/controllers/test.js",
+		"/D/dev/workspace/alisconfig/src/styles/main.css",
+		"/D/dev/workspace/fun/yeotest/component.json",
+		"/D/dev/workspace/fun/yeotest/.bowerrc",
+		"/D/dev/workspace/fun/yeotest/node_modules/generator-angular/app/index.js",
+		"/D/dev/workspace/fun/yeotest/node_modules/generator-angular/main/index.js",
+		"/D/dev/workspace/fun/yeotest/node_modules/generator-angular/script-base.js",
+		"/D/dev/workspace/fun/yeotest/node_modules/generator-angular/common/index.js",
+		"/D/dev/workspace/fun/yeotest/node_modules/generator-angular/templates/javascript/controller.js",
+		"/D/dev/workspace/fun/yeotest/src/views/main.html",
+		"/D/dev/workspace/fun/yeotest/package.json",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/tbInputWrapper/tbInputWrapper.tpl.html",
+		"/D/dev/workspace/alisconfig/src/scripts/modules/directory/glossary/glossary.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/tbFormField/tbFormField.js",
+		"/D/dev/workspace/alisconfig/src/scripts/modules/currentProjects/editProject/editProject.js",
+		"/D/dev/workspace/node_test/server.js",
+		"/D/dev/workspace/alisconfig/src/scripts/common/directives/userForm/userForm.tpl.html",
+		"/C/Users/shai/AppData/Roaming/npm/node_modules/yeoman/tasks/server.js",
+		"/D/dev/workspace/users/app/views/home.html",
+		"/D/dev/workspace/repos/angularui-router/sample/contacts.html",
+		"/D/dev/workspace/alisconfig/src/scripts/modules/directory/directoryStateNames.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			" >",
+			"ui-sortable",
+			"\"sortable",
+			"plugin.add\\(\"",
+			"plugin.add",
+			"sortable",
+			"model",
+			"\n<",
+			"\\",
+			"createChildHtmlElement",
+			"Html",
+			"createChildHtml",
+			"child",
+			"node-title",
+			"_$compile",
+			"expectCompiledElementToBe",
+			"_$rootScope",
+			"rootScope",
+			"ul",
+			"model",
+			"test",
+			"toBe",
+			"(\"<",
+			"!",
+			"concat",
+			"livereload",
+			"concat",
+			"components",
+			"app",
+			"components",
+			"json_data",
+			"liverel",
+			"exce",
+			"firstItemText",
+			"A-Z",
+			"attrs",
+			"camelCase",
+			"compile",
+			"editProject",
+			"currentProjects",
+			"\"alisApp.directory\"",
+			"angular.module(\"alisApp.directory\"",
+			"angular.module(\"alisApp.directory\",",
+			"angular.module(\"alisApp.directory\", [",
+			"dir",
+			"btn",
+			"plan1Context",
+			"+d\"",
+			"+d",
+			"+g",
+			"context",
+			"></",
+			"valueFn",
+			"compileProvider",
+			"compile",
+			");\n",
+			"tbFormField",
+			"tb-input-wrapper",
+			"user",
+			"userForm",
+			"topBar",
+			";",
+			"appCustomTasks",
+			"appLocation",
+			"vendor",
+			"images",
+			"module",
+			"app/",
+			"(function(n){\"function\"==typeof define?define(n):\"function\"==typeof YUI",
+			"grunt.log",
+			"resolve('app",
+			"path.resolve('app')",
+			"app",
+			"app/",
+			"open",
+			"open-b",
+			"vendor",
+			"/scripts",
+			"scripts",
+			"clear",
+			"inline",
+			"display:inline",
+			"ul",
+			"search_form",
+			"get_search_form",
+			"About",
+			"p",
+			"p>",
+			"alt",
+			"Huggable",
+			"p",
+			"src",
+			"msc",
+			"Nice",
+			"test-dir",
+			"\", ",
+			"true",
+			"p",
+			"rename",
+			"        \n",
+			"images",
+			"bootstrap",
+			"lint",
+			"views",
+			"select",
+			"clos",
+			"end",
+			"jump",
+			"oops",
+			"wp_enqueue_scripts",
+			"twentytwelve_scripts_styles",
+			"Sorry",
+			"Sorry the email address you entered was previously submitted.",
+			"bootstrapwp_css_loader",
+			"bootstrap",
+			"getFrontendFormDisplay_field",
+			"getFrontendFormDisplay",
+			"Thank You for subscribin",
+			"thank you",
+			"template",
+			"get_current_theme",
+			"\n  ",
+			"large",
+			"ctrl+alt+l",
+			"ctrl+alt+shift+l",
+			"ctrl+alt+",
+			"control-group"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"current-projects",
+			"src/",
+			"<config:source>/",
+			"src/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"child-no",
+				"research-tab/src/scripts/common/directives/child-node.drv.js"
+			],
+			[
+				"main.sc",
+				"research-tab/src/styles/main.scss"
+			],
+			[
+				"tab-bo",
+				"research-tab/src/scripts/common/directives/tab-box.tpl.html"
+			],
+			[
+				"jquery-ui.js",
+				"research-tab/src/vendor/jquery-ui/ui/jquery-ui.js"
+			],
+			[
+				"jquery-ui",
+				"stuff/mindmap/jquery-ui.js"
+			],
+			[
+				"angular-ui.js",
+				"alisconfig/src/vendor/angular-ui/build/angular-ui.js"
+			],
+			[
+				"rendertpl.html",
+				"research-tab/src/scripts/common/directives/tabs-tree-renderer.tpl.html"
+			],
+			[
+				"tabs-tree-ren",
+				"research-tab/src/scripts/common/directives/tabs-tree-renderer.drv.js"
+			],
+			[
+				"tabs-tree",
+				"research-tab/src/scripts/common/directives/tabs-tree.tpl.html"
+			],
+			[
+				"app.mdl",
+				"research-tab/src/scripts/app.mdl.js"
+			],
+			[
+				"reseamain.tp",
+				"research-tab/src/scripts/core/main.tpl.html"
+			],
+			[
+				"ng-tree.js",
+				"alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.drtv.js"
+			],
+			[
+				".test.js",
+				"/D/dev/workspace/alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.test.js"
+			],
+			[
+				"rescompon",
+				"research-tab/component.json"
+			],
+			[
+				"app",
+				"research-tab/src/scripts/app.mdl.js"
+			],
+			[
+				"aliindex",
+				"alisconfig/src/index.html"
+			],
+			[
+				"reseindex",
+				"research-tab/src/index.html"
+			],
+			[
+				"compon",
+				"alisconfig/component.json"
+			],
+			[
+				"reseacompone",
+				"research-tab/component.json"
+			],
+			[
+				"paste.html",
+				"research-tab/src/scripts/common/directives/paste-box.tpl.html"
+			],
+			[
+				"researindex.",
+				"research-tab/src/index.html"
+			],
+			[
+				"tabbo",
+				"research-tab/src/scripts/common/directives/tab-box.tpl.html"
+			],
+			[
+				"main.tpl",
+				"research-tab/src/scripts/core/main.tpl.html"
+			],
+			[
+				"ng-js",
+				"alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.drtv.js"
+			],
+			[
+				"ng-jstree",
+				"alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.drtv.js"
+			],
+			[
+				"alisconfig.test.js",
+				"alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.test.js"
+			],
+			[
+				"resgrunt",
+				"research-tab/Gruntfile.js"
+			],
+			[
+				"reseakarma",
+				"research-tab/karma.conf.js"
+			],
+			[
+				"resecompon",
+				"research-tab/component.json"
+			],
+			[
+				"main.tp",
+				"research-tab/src/scripts/core/main.tpl.html"
+			],
+			[
+				"researcindex.html",
+				"research-tab/src/index.html"
+			],
+			[
+				"researscripts",
+				"research-tab/.tmp/scripts/scripts.js"
+			],
+			[
+				"main.ctrl",
+				"research-tab/src/scripts/core/main.ctrl.js"
+			],
+			[
+				"app.mdl.",
+				"research-tab/src/scripts/app.mdl.js"
+			],
+			[
+				"reseaindex.html",
+				"research-tab/src/index.html"
+			],
+			[
+				"grun",
+				"alisconfig/Gruntfile.js"
+			],
+			[
+				"alisapp.js",
+				"alisconfig/src/scripts/app.mdl.js"
+			],
+			[
+				"alisindex.",
+				"alisconfig/src/index.html"
+			],
+			[
+				"ngjstree",
+				"alisconfig/src/scripts/common/directives/ng-jstree/ng-jstree.drtv.js"
+			],
+			[
+				"alisvendjquer",
+				"alisconfig/src/vendor/jquery/jquery.js"
+			],
+			[
+				"compo",
+				"alisconfig/component.json"
+			],
+			[
+				"directo",
+				"alisconfig/test/spec/modules/directory.js"
+			],
+			[
+				"alisindex.h",
+				"alisconfig/src/index.html"
+			],
+			[
+				"direcor",
+				"alisconfig/src/scripts/core/directory/directory.mdl.js"
+			],
+			[
+				"scripts",
+				"alisconfig/.tmp/scripts/scripts.js"
+			],
+			[
+				"current.tp",
+				"alisconfig/src/scripts/core/directory/current-projects/current-projects.tpl.html"
+			],
+			[
+				"current-pro",
+				"alisconfig/src/scripts/core/directory/current-projects/current-projects.js"
+			],
+			[
+				"karma",
+				"alisconfig/karma.conf.js"
+			],
+			[
+				"angular.js",
+				"repos/angular.js/src/Angular.js"
+			],
+			[
+				"",
+				"alisconfig/src/scripts/common/modules/contextGenerator/contextGenerator.js"
+			],
+			[
+				"editpro",
+				"alisconfig/src/scripts/modules/directory/currentProjects/editProject/editProject.js"
+			],
+			[
+				"tbfor",
+				"alisconfig/src/scripts/common/directives/tbForm/tbForm.js"
+			],
+			[
+				"direc",
+				"angular_demo/app/scripts/directives/directives.js"
+			],
+			[
+				"main.html",
+				"angular_demo/app/views/main.html"
+			],
+			[
+				"manage",
+				"users/app/views/manage-users.html"
+			],
+			[
+				"angular",
+				"angular-phonecat/app/lib/angular/angular.js"
+			],
+			[
+				"home.js",
+				"users/app/scripts/controllers/home.js"
+			],
+			[
+				"home",
+				"users/app/views/home.html"
+			],
+			[
+				"login.js",
+				"users/app/scripts/services/login-service.js"
+			],
+			[
+				"usersmain",
+				"users/app/scripts/controllers/main.js"
+			],
+			[
+				"usersapp",
+				"users/app/scripts/app.js"
+			],
+			[
+				"server",
+				"users/app/scripts/server-mock.js"
+			],
+			[
+				"wp-confi",
+				"leanshop/build/wp-config.php"
+			],
+			[
+				"front",
+				"leanshop/build/wp-content/themes/leanshoptheme/page-templates/front.php"
+			],
+			[
+				"store-ser",
+				"users/app/scripts/services/store-service.js"
+			],
+			[
+				"login-ser",
+				"users/app/scripts/services/login-service.js"
+			],
+			[
+				"usermain.s",
+				"users/app/styles/main.scss"
+			],
+			[
+				"usermain.css",
+				"users/app/styles/main.css"
+			],
+			[
+				"usersmain.js",
+				"users/app/scripts/controllers/main.js"
+			],
+			[
+				"users/index",
+				"users/app/index.html"
+			],
+			[
+				"style",
+				"leanshop/build/wp-content/themes/thematic/style.css"
+			],
+			[
+				"style.",
+				"leanshop/build/wp-content/themes/thematic/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/D/dev/workspace/alisconfig/alis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true
+}
